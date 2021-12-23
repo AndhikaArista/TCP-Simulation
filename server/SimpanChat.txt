@@ -1,0 +1,19 @@
+SOCKET #296:test
+SOCKET #292:hai
+SOCKET #260:test
+SOCKET #256:test
+SOCKET #256:test
+SOCKET #252:hai
+SOCKET #252:hai
+SOCKET #252:ketik
+SOCKET #256:hello
+SOCKET #256:hello
+SOCKET #256:ketik
+SOCKET #256:halo
+SOCKET #256:halo
+SOCKET #256:gais
+SOCKET #252:halo gais
+SOCKET #264:halo
+SOCKET #264:gais
+SOCKET #264:halo
+SOCKET #264:saya
